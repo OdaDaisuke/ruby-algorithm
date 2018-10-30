@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'csv'
+gem 'carrierwave'
+gem 'piet'
+gem 'rmagick'
